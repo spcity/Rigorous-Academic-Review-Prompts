@@ -1,7 +1,4 @@
 
-## README.zh-CN.md
-
-```markdown
 # 严格学术审稿 Prompts
 
 一套面向学术论文、理论工作和研究方法审查的严格型 Prompt 模板集合。
